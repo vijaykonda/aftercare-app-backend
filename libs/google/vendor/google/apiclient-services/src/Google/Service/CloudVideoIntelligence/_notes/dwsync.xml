@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="GoogleCloudVideointelligenceV1AnnotateVideoProgress.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="GoogleCloudVideointelligenceV1AnnotateVideoResponse.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="GoogleCloudVideointelligenceV1beta1AnnotateVideoProgress.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="GoogleCloudVideointelligenceV1beta1AnnotateVideoRequest.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="GoogleCloudVideointelligenceV1beta1AnnotateVideoResponse.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="GoogleCloudVideointelligenceV1beta1LabelAnnotation.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="GoogleCloudVideointelligenceV1beta1LabelLocation.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="GoogleCloudVideointelligenceV1beta1VideoAnnotationProgress.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="GoogleCloudVideointelligenceV1beta1VideoAnnotationResults.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="GoogleCloudVideointelligenceV1beta1VideoContext.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="GoogleCloudVideointelligenceV1beta1VideoSegment.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="GoogleCloudVideointelligenceV1LabelAnnotation.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="GoogleCloudVideointelligenceV1LabelLocation.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="GoogleCloudVideointelligenceV1SafeSearchAnnotation.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="GoogleCloudVideointelligenceV1VideoAnnotationProgress.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="GoogleCloudVideointelligenceV1VideoAnnotationResults.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="GoogleCloudVideointelligenceV1VideoSegment.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="GoogleLongrunningOperation.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="GoogleRpcStatus.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+</dwsync>

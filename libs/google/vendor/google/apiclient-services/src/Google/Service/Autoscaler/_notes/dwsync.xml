@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Autoscaler.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="AutoscalerListResponse.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="AutoscalingPolicy.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="AutoscalingPolicyCpuUtilization.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="AutoscalingPolicyCustomMetricUtilization.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="AutoscalingPolicyLoadBalancingUtilization.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="DeprecationStatus.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="Operation.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="OperationError.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="OperationErrorErrors.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="OperationList.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="OperationWarnings.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="OperationWarningsData.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="Zone.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="ZoneList.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+</dwsync>

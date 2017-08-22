@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AggregateBucket.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474316600000000" />
+<file name="AggregateBy.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474316600000000" />
+<file name="AggregateRequest.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474316600000000" />
+<file name="AggregateResponse.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474316600000000" />
+<file name="Application.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474316600000000" />
+<file name="BucketByActivity.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474316600000000" />
+<file name="BucketBySession.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474316600000000" />
+<file name="BucketByTime.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474316600000000" />
+<file name="BucketByTimePeriod.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474316600000000" />
+<file name="DataPoint.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474316600000000" />
+<file name="Dataset.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474316600000000" />
+<file name="DataSource.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474316600000000" />
+<file name="DataType.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474316600000000" />
+<file name="DataTypeField.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474316600000000" />
+<file name="Device.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474316600000000" />
+<file name="ListDataSourcesResponse.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474316600000000" />
+<file name="ListSessionsResponse.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474316600000000" />
+<file name="MapValue.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474316600000000" />
+<file name="Session.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474316600000000" />
+<file name="Value.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474316600000000" />
+<file name="ValueMapValEntry.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474316600000000" />
+</dwsync>

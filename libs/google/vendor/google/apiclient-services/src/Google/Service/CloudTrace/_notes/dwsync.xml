@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Annotation.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="Attributes.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="AttributeValue.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="BatchWriteSpansRequest.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="CloudtraceEmpty.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="Link.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="Links.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="ListSpansResponse.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="ListTracesResponse.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="Module.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="NetworkEvent.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="Span.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="StackFrame.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="StackFrames.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="StackTrace.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="Status.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="TimeEvent.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="TimeEvents.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="Trace.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="TruncatableString.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+</dwsync>

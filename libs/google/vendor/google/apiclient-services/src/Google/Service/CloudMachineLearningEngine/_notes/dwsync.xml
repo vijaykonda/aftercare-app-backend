@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="GoogleApiHttpBody.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="GoogleCloudMlV1AutomaticScaling.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="GoogleCloudMlV1beta1AutomaticScaling.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="GoogleCloudMlV1beta1ManualScaling.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="GoogleCloudMlV1beta1OperationMetadata.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313600000000" />
+<file name="GoogleCloudMlV1beta1Version.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="GoogleCloudMlV1CancelJobRequest.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="GoogleCloudMlV1GetConfigResponse.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="GoogleCloudMlV1HyperparameterOutput.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="GoogleCloudMlV1HyperparameterOutputHyperparameterMetric.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="GoogleCloudMlV1HyperparameterSpec.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="GoogleCloudMlV1Job.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="GoogleCloudMlV1ListJobsResponse.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="GoogleCloudMlV1ListModelsResponse.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="GoogleCloudMlV1ListVersionsResponse.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="GoogleCloudMlV1ManualScaling.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="GoogleCloudMlV1Model.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="GoogleCloudMlV1OperationMetadata.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="GoogleCloudMlV1ParameterSpec.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="GoogleCloudMlV1PredictionInput.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="GoogleCloudMlV1PredictionOutput.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="GoogleCloudMlV1PredictRequest.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="GoogleCloudMlV1SetDefaultVersionRequest.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="GoogleCloudMlV1TrainingInput.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="GoogleCloudMlV1TrainingOutput.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="GoogleCloudMlV1Version.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="GoogleIamV1AuditConfig.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="GoogleIamV1AuditLogConfig.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="GoogleIamV1Binding.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="GoogleIamV1Condition.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="GoogleIamV1LogConfig.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="GoogleIamV1LogConfigCloudAuditOptions.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="GoogleIamV1LogConfigCounterOptions.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="GoogleIamV1LogConfigDataAccessOptions.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="GoogleIamV1Policy.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="GoogleIamV1Rule.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="GoogleIamV1SetIamPolicyRequest.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="GoogleIamV1TestIamPermissionsRequest.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="GoogleIamV1TestIamPermissionsResponse.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="GoogleLongrunningListOperationsResponse.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="GoogleLongrunningOperation.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="GoogleProtobufEmpty.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="GoogleRpcStatus.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="GoogleTypeExpr.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+</dwsync>

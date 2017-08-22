@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="FieldMask.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="MobileAppPanel.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="MobileAppPanelsListResponse.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="PageInfo.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="ResultsGetRequest.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="ResultsMask.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="Survey.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="SurveyAudience.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="SurveyCost.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="SurveyQuestion.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="SurveyQuestionImage.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="SurveyRejection.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="SurveyResults.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="SurveysDeleteResponse.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="SurveysListResponse.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="SurveysStartRequest.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="SurveysStartResponse.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="SurveysStopResponse.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="TokenPagination.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+</dwsync>

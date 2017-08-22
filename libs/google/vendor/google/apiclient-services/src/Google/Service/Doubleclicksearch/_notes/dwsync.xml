@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Availability.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474316600000000" />
+<file name="Conversion.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474316600000000" />
+<file name="ConversionList.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474316600000000" />
+<file name="CustomDimension.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474316600000000" />
+<file name="CustomMetric.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474316600000000" />
+<file name="Report.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474316600000000" />
+<file name="ReportApiColumnSpec.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474316600000000" />
+<file name="ReportFiles.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474316600000000" />
+<file name="ReportRequest.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474316600000000" />
+<file name="ReportRequestFilters.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474316600000000" />
+<file name="ReportRequestOrderBy.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474316600000000" />
+<file name="ReportRequestReportScope.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474316600000000" />
+<file name="ReportRequestTimeRange.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474316600000000" />
+<file name="SavedColumn.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474316600000000" />
+<file name="SavedColumnList.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474316600000000" />
+<file name="UpdateAvailabilityRequest.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474316600000000" />
+<file name="UpdateAvailabilityResponse.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474316600000000" />
+</dwsync>

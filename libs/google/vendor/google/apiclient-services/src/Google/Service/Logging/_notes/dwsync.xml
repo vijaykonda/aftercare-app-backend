@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="HttpRequest.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="LabelDescriptor.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="ListLogEntriesRequest.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="ListLogEntriesResponse.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="ListLogMetricsResponse.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="ListLogsResponse.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="ListMonitoredResourceDescriptorsResponse.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="ListSinksResponse.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="LogEntry.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="LogEntryOperation.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="LogEntrySourceLocation.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="LoggingEmpty.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="LogLine.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="LogMetric.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="LogSink.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="MonitoredResource.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="MonitoredResourceDescriptor.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="RequestLog.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="SourceLocation.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="SourceReference.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="WriteLogEntriesRequest.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="WriteLogEntriesResponse.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+</dwsync>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Ancestor.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="AuditConfig.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="AuditLogConfig.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="Binding.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="BooleanConstraint.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="BooleanPolicy.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="ClearOrgPolicyRequest.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="CloudresourcemanagerEmpty.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="Constraint.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="FolderOperation.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="FolderOperationError.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="GetAncestryRequest.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="GetAncestryResponse.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="GetEffectiveOrgPolicyRequest.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="GetIamPolicyRequest.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="GetOrgPolicyRequest.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="Lien.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="ListAvailableOrgPolicyConstraintsRequest.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="ListAvailableOrgPolicyConstraintsResponse.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="ListConstraint.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="ListLiensResponse.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="ListOrgPoliciesRequest.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="ListOrgPoliciesResponse.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="ListPolicy.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="ListProjectsResponse.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="Operation.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="Organization.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="OrganizationOwner.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="OrgPolicy.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="Policy.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="Project.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="ProjectCreationStatus.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="ResourceId.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="RestoreDefault.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="SearchOrganizationsRequest.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="SearchOrganizationsResponse.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="SetIamPolicyRequest.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="SetOrgPolicyRequest.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="Status.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="TestIamPermissionsRequest.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="TestIamPermissionsResponse.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="UndeleteProjectRequest.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+</dwsync>

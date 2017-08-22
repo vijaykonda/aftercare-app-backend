@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AircraftData.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="AirportData.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="BagDescriptor.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="CarrierData.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="CityData.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="Data.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="FareInfo.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="FlightInfo.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="FreeBaggageAllowance.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="LegInfo.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="PassengerCounts.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="PricingInfo.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="SegmentInfo.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="SegmentPricing.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="SliceInfo.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="SliceInput.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="TaxData.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="TaxInfo.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="TimeOfDayRange.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="TripOption.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="TripOptionsRequest.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="TripOptionsResponse.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="TripsSearchRequest.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="TripsSearchResponse.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+</dwsync>

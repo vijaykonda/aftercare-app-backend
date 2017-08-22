@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BucketOptions.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="CollectdPayload.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="CollectdValue.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="CreateCollectdTimeSeriesRequest.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="CreateTimeSeriesRequest.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="Distribution.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="Explicit.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="Exponential.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="Field.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="Group.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="LabelDescriptor.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="Linear.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="ListGroupMembersResponse.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="ListGroupsResponse.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="ListMetricDescriptorsResponse.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="ListMonitoredResourceDescriptorsResponse.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="ListTimeSeriesResponse.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="Metric.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="MetricDescriptor.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="MonitoredResource.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="MonitoredResourceDescriptor.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="MonitoringEmpty.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="Option.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="Point.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="Range.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="SourceContext.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="TimeInterval.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="TimeSeries.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="Type.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="TypedValue.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+</dwsync>

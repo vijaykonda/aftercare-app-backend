@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AuditConfig.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="AuditLogConfig.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="Binding.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="CloudAuditOptions.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="Condition.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="CounterOptions.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="DataAccessOptions.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="ListReposResponse.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="LogConfig.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="MirrorConfig.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="Policy.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="Repo.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="Rule.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="SetIamPolicyRequest.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="SourcerepoEmpty.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="TestIamPermissionsRequest.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="TestIamPermissionsResponse.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+</dwsync>

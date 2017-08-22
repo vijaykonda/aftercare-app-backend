@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Acl.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="AclRule.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="AclRuleScope.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="Calendar.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="CalendarList.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="CalendarListEntry.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="CalendarListEntryNotificationSettings.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="CalendarNotification.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="Channel.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="ColorDefinition.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="Colors.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="DeepLinkData.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="DisplayInfo.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="Error.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="Event.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="EventAttachment.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="EventAttendee.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="EventCreator.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="EventDateTime.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="EventExtendedProperties.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="EventGadget.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="EventHabitInstance.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="EventOrganizer.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="EventReminder.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="EventReminders.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="Events.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="EventSource.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="FreeBusyCalendar.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="FreeBusyGroup.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="FreeBusyRequest.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="FreeBusyRequestItem.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="FreeBusyResponse.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="HabitInstanceData.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="LaunchInfo.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="Link.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="Setting.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="Settings.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="TimePeriod.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+</dwsync>

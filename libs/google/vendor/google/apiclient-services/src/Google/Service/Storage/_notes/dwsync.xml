@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Bucket.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="BucketAccessControl.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="BucketAccessControlProjectTeam.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="BucketAccessControls.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="BucketBilling.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="BucketCors.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="BucketEncryption.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="BucketLifecycle.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="BucketLifecycleRule.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="BucketLifecycleRuleAction.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="BucketLifecycleRuleCondition.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="BucketLogging.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="BucketOwner.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="Buckets.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="BucketVersioning.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="BucketWebsite.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="Channel.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="ComposeRequest.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="ComposeRequestSourceObjects.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="ComposeRequestSourceObjectsObjectPreconditions.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="Notification.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="Notifications.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="ObjectAccessControl.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="ObjectAccessControlProjectTeam.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="ObjectAccessControls.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="Objects.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="Policy.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="PolicyBindings.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="RewriteResponse.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="ServiceAccount.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="StorageObject.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="StorageObjectCustomerEncryption.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="StorageObjectOwner.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="TestIamPermissionsResponse.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+</dwsync>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AccessConfig.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="Action.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="AllowedRule.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="AutoscalingModule.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="AutoscalingModuleStatus.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="Deployment.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="DeploymentsListResponse.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="DeploymentsResource.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="DeployState.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="DiskAttachment.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="EnvVariable.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="ExistingDisk.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="FirewallModule.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="FirewallModuleStatus.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="HealthCheckModule.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="HealthCheckModuleStatus.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="LbModule.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="LbModuleStatus.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="Metadata.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="MetadataItem.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="Module.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="ModuleStatus.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="NetworkInterface.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="NetworkModule.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="NetworkModuleStatus.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="NewDisk.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="NewDiskInitializeParams.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="ParamOverride.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="ReplicaPoolModule.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="ReplicaPoolModuleStatus.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="ReplicaPoolParams.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="ReplicaPoolParamsV1Beta1.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="ServiceAccount.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="Tag.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="Template.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="TemplatesListResponse.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="TemplatesResource.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+</dwsync>

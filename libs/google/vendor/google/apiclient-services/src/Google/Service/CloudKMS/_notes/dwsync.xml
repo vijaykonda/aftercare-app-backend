@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AuditConfig.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="AuditLogConfig.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="Binding.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="CloudAuditOptions.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="Condition.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="CounterOptions.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="CryptoKey.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="CryptoKeyVersion.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="DataAccessOptions.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="DecryptRequest.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="DecryptResponse.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="DestroyCryptoKeyVersionRequest.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="EncryptRequest.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="EncryptResponse.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="Expr.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="KeyRing.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="ListCryptoKeysResponse.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="ListCryptoKeyVersionsResponse.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="ListKeyRingsResponse.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="ListLocationsResponse.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="Location.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="LogConfig.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="Policy.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="RestoreCryptoKeyVersionRequest.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="Rule.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="SetIamPolicyRequest.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="TestIamPermissionsRequest.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="TestIamPermissionsResponse.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="UpdateCryptoKeyPrimaryVersionRequest.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+</dwsync>

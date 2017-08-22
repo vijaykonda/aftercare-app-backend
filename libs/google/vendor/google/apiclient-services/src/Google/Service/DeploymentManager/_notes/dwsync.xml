@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AuditConfig.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="AuditLogConfig.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="Binding.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="Condition.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="ConfigFile.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="Deployment.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="DeploymentLabelEntry.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="DeploymentmanagerResource.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="DeploymentmanagerResourceWarnings.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="DeploymentmanagerResourceWarningsData.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="DeploymentsCancelPreviewRequest.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="DeploymentsListResponse.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="DeploymentsStopRequest.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="DeploymentUpdate.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="DeploymentUpdateLabelEntry.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="Expr.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="ImportFile.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="LogConfig.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="LogConfigCloudAuditOptions.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="LogConfigCounterOptions.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="Manifest.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="ManifestsListResponse.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="Operation.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="OperationError.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="OperationErrorErrors.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="OperationsListResponse.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="OperationWarnings.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="OperationWarningsData.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="Policy.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="ResourceAccessControl.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="ResourcesListResponse.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="ResourceUpdate.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="ResourceUpdateError.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="ResourceUpdateErrorErrors.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="ResourceUpdateWarnings.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="ResourceUpdateWarningsData.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="Rule.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="TargetConfiguration.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="TestPermissionsRequest.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="TestPermissionsResponse.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="Type.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="TypesListResponse.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+</dwsync>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AllocateQuotaRequest.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="AllocateQuotaResponse.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="AuditLog.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="AuthenticationInfo.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="AuthorizationInfo.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="CheckError.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="CheckInfo.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="CheckRequest.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="CheckResponse.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="Distribution.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="EndReconciliationRequest.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="EndReconciliationResponse.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="ExplicitBuckets.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="ExponentialBuckets.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="LinearBuckets.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="LogEntry.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="MetricValue.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="MetricValueSet.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="Money.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="Operation.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="QuotaError.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="QuotaInfo.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="QuotaOperation.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="QuotaProperties.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="ReleaseQuotaRequest.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="ReleaseQuotaResponse.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="ReportError.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="ReportInfo.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="ReportRequest.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="ReportResponse.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="RequestMetadata.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="StartReconciliationRequest.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="StartReconciliationResponse.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="Status.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+</dwsync>

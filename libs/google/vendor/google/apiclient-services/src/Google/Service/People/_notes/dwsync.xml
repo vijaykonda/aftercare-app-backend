@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Address.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474319000000000" />
+<file name="AgeRangeType.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474319000000000" />
+<file name="Biography.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474319000000000" />
+<file name="Birthday.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474319000000000" />
+<file name="BraggingRights.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474319000000000" />
+<file name="ContactGroupMembership.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474319000000000" />
+<file name="CoverPhoto.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474319000000000" />
+<file name="Date.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474319000000000" />
+<file name="DomainMembership.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474319000000000" />
+<file name="EmailAddress.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474319000000000" />
+<file name="Event.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474319000000000" />
+<file name="FieldMetadata.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474319000000000" />
+<file name="Gender.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474319000000000" />
+<file name="GetPeopleResponse.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474319000000000" />
+<file name="ImClient.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474319000000000" />
+<file name="Interest.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474319000000000" />
+<file name="ListConnectionsResponse.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474319000000000" />
+<file name="Locale.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474319000000000" />
+<file name="Membership.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474319000000000" />
+<file name="Name.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474319000000000" />
+<file name="Nickname.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474319000000000" />
+<file name="Occupation.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474319000000000" />
+<file name="Organization.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474319000000000" />
+<file name="Person.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474319000000000" />
+<file name="PersonMetadata.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474319000000000" />
+<file name="PersonResponse.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474319000000000" />
+<file name="PhoneNumber.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474319000000000" />
+<file name="Photo.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474319000000000" />
+<file name="ProfileMetadata.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474319000000000" />
+<file name="Relation.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474319000000000" />
+<file name="RelationshipInterest.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474319000000000" />
+<file name="RelationshipStatus.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474319000000000" />
+<file name="Residence.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474319000000000" />
+<file name="Skill.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474319000000000" />
+<file name="Source.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474319000000000" />
+<file name="Tagline.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474319000000000" />
+<file name="Url.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474319000000000" />
+</dwsync>

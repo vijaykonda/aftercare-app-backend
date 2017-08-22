@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AdministrationRegion.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="AdministrativeBody.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="Candidate.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="Channel.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="Contest.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="ContextParams.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="DivisionRepresentativeInfoRequest.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="DivisionSearchRequest.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="DivisionSearchResponse.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="DivisionSearchResult.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="Election.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="ElectionOfficial.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="ElectionsQueryRequest.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="ElectionsQueryResponse.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="ElectoralDistrict.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="GeographicDivision.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="Office.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="Official.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="PollingLocation.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="PostalAddress.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="RepresentativeInfoData.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="RepresentativeInfoRequest.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="RepresentativeInfoResponse.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="SimpleAddressType.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="Source.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="VoterInfoRequest.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="VoterInfoResponse.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+<file name="VoterInfoSegmentResult.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474313000000000" />
+</dwsync>

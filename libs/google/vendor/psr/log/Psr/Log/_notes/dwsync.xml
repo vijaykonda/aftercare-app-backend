@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractLogger.php" server="mobileapp.dentacoin.com" local="131205395780000000" remote="131474311200000000" />
+<file name="InvalidArgumentException.php" server="mobileapp.dentacoin.com" local="131205395780000000" remote="131474311200000000" />
+<file name="LoggerAwareInterface.php" server="mobileapp.dentacoin.com" local="131205395780000000" remote="131474311200000000" />
+<file name="LoggerAwareTrait.php" server="mobileapp.dentacoin.com" local="131205395780000000" remote="131474311200000000" />
+<file name="LoggerInterface.php" server="mobileapp.dentacoin.com" local="131205395780000000" remote="131474311200000000" />
+<file name="LoggerTrait.php" server="mobileapp.dentacoin.com" local="131205395780000000" remote="131474311200000000" />
+<file name="LogLevel.php" server="mobileapp.dentacoin.com" local="131205395780000000" remote="131474311200000000" />
+<file name="NullLogger.php" server="mobileapp.dentacoin.com" local="131205395780000000" remote="131474311200000000" />
+</dwsync>

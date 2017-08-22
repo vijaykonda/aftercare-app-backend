@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ChromePHPFormatter.php" server="mobileapp.dentacoin.com" local="131422729600000000" remote="131474311200000000" />
+<file name="ElasticaFormatter.php" server="mobileapp.dentacoin.com" local="131422729600000000" remote="131474311200000000" />
+<file name="FlowdockFormatter.php" server="mobileapp.dentacoin.com" local="131422729600000000" remote="131474311200000000" />
+<file name="FluentdFormatter.php" server="mobileapp.dentacoin.com" local="131422729600000000" remote="131474311200000000" />
+<file name="FormatterInterface.php" server="mobileapp.dentacoin.com" local="131422729600000000" remote="131474311200000000" />
+<file name="GelfMessageFormatter.php" server="mobileapp.dentacoin.com" local="131422729600000000" remote="131474311200000000" />
+<file name="HtmlFormatter.php" server="mobileapp.dentacoin.com" local="131422729600000000" remote="131474311200000000" />
+<file name="JsonFormatter.php" server="mobileapp.dentacoin.com" local="131422729600000000" remote="131474311200000000" />
+<file name="LineFormatter.php" server="mobileapp.dentacoin.com" local="131422729600000000" remote="131474311200000000" />
+<file name="LogglyFormatter.php" server="mobileapp.dentacoin.com" local="131422729600000000" remote="131474311200000000" />
+<file name="LogstashFormatter.php" server="mobileapp.dentacoin.com" local="131422729600000000" remote="131474311200000000" />
+<file name="MongoDBFormatter.php" server="mobileapp.dentacoin.com" local="131422729600000000" remote="131474311200000000" />
+<file name="NormalizerFormatter.php" server="mobileapp.dentacoin.com" local="131422729600000000" remote="131474311200000000" />
+<file name="ScalarFormatter.php" server="mobileapp.dentacoin.com" local="131422729600000000" remote="131474311200000000" />
+<file name="WildfireFormatter.php" server="mobileapp.dentacoin.com" local="131422729600000000" remote="131474311200000000" />
+</dwsync>

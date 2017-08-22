@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Cohort.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474311200000000" />
+<file name="CohortGroup.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474311200000000" />
+<file name="ColumnHeader.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474311200000000" />
+<file name="DateRange.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474311200000000" />
+<file name="DateRangeValues.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474311200000000" />
+<file name="Dimension.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474311200000000" />
+<file name="DimensionFilter.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474311200000000" />
+<file name="DimensionFilterClause.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474311200000000" />
+<file name="DynamicSegment.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474311200000000" />
+<file name="GetReportsRequest.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474311200000000" />
+<file name="GetReportsResponse.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474311200000000" />
+<file name="Metric.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474311200000000" />
+<file name="MetricFilter.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474311200000000" />
+<file name="MetricFilterClause.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474311200000000" />
+<file name="MetricHeader.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474311200000000" />
+<file name="MetricHeaderEntry.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474311200000000" />
+<file name="OrderBy.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474311200000000" />
+<file name="OrFiltersForSegment.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474311200000000" />
+<file name="Pivot.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474311200000000" />
+<file name="PivotHeader.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474311200000000" />
+<file name="PivotHeaderEntry.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474311200000000" />
+<file name="PivotValueRegion.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474311200000000" />
+<file name="Report.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474311200000000" />
+<file name="ReportData.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474311200000000" />
+<file name="ReportRequest.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474311200000000" />
+<file name="ReportRow.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474311200000000" />
+<file name="Segment.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474311200000000" />
+<file name="SegmentDefinition.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474311200000000" />
+<file name="SegmentDimensionFilter.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474311200000000" />
+<file name="SegmentFilter.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474311200000000" />
+<file name="SegmentFilterClause.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474311200000000" />
+<file name="SegmentMetricFilter.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474311200000000" />
+<file name="SegmentSequenceStep.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474311200000000" />
+<file name="SequenceSegment.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474311200000000" />
+<file name="SimpleSegment.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474311200000000" />
+</dwsync>

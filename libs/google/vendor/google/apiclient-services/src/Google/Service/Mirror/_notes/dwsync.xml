@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Account.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="Attachment.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="AttachmentsListResponse.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="AuthToken.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="Command.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="Contact.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="ContactsListResponse.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="Location.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="LocationsListResponse.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="MenuItem.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="MenuValue.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="Notification.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="NotificationConfig.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="Setting.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="Subscription.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="SubscriptionsListResponse.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="TimelineItem.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="TimelineListResponse.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="UserAction.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="UserData.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+</dwsync>

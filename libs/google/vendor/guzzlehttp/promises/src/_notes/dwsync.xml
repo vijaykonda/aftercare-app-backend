@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AggregateException.php" server="mobileapp.dentacoin.com" local="131266624320000000" remote="131474311200000000" />
+<file name="CancellationException.php" server="mobileapp.dentacoin.com" local="131266624320000000" remote="131474311200000000" />
+<file name="Coroutine.php" server="mobileapp.dentacoin.com" local="131266624320000000" remote="131474311200000000" />
+<file name="EachPromise.php" server="mobileapp.dentacoin.com" local="131266624320000000" remote="131474311200000000" />
+<file name="FulfilledPromise.php" server="mobileapp.dentacoin.com" local="131266624320000000" remote="131474311200000000" />
+<file name="functions.php" server="mobileapp.dentacoin.com" local="131266624320000000" remote="131474311200000000" />
+<file name="functions_include.php" server="mobileapp.dentacoin.com" local="131266624320000000" remote="131474311200000000" />
+<file name="Promise.php" server="mobileapp.dentacoin.com" local="131266624320000000" remote="131474311200000000" />
+<file name="PromiseInterface.php" server="mobileapp.dentacoin.com" local="131266624320000000" remote="131474311200000000" />
+<file name="PromisorInterface.php" server="mobileapp.dentacoin.com" local="131266624320000000" remote="131474311200000000" />
+<file name="RejectedPromise.php" server="mobileapp.dentacoin.com" local="131266624320000000" remote="131474311200000000" />
+<file name="RejectionException.php" server="mobileapp.dentacoin.com" local="131266624320000000" remote="131474311200000000" />
+<file name="TaskQueue.php" server="mobileapp.dentacoin.com" local="131266624320000000" remote="131474311200000000" />
+<file name="TaskQueueInterface.php" server="mobileapp.dentacoin.com" local="131266624320000000" remote="131474311200000000" />
+</dwsync>

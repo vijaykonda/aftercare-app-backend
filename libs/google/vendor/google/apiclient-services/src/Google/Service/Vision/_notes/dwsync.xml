@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AnnotateImageRequest.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="AnnotateImageResponse.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="BatchAnnotateImagesRequest.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="BatchAnnotateImagesResponse.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="Block.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="BoundingPoly.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="Color.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="ColorInfo.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="CropHint.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="CropHintsAnnotation.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="CropHintsParams.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="DetectedBreak.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="DetectedLanguage.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="DominantColorsAnnotation.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="EntityAnnotation.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="FaceAnnotation.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="Feature.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="Image.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="ImageContext.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="ImageProperties.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="ImageSource.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="Landmark.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="LatLng.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="LatLongRect.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="LocationInfo.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="Page.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="Paragraph.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="Position.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="Property.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="SafeSearchAnnotation.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="Status.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="Symbol.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="TextAnnotation.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="TextProperty.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="Vertex.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="WebDetection.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="WebEntity.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="WebImage.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="WebPage.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="Word.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+</dwsync>

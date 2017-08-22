@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AuditData.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="Binding.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="BindingDelta.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="CreateServiceAccountKeyRequest.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="CreateServiceAccountRequest.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="IamEmpty.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="ListServiceAccountKeysResponse.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="ListServiceAccountsResponse.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="Policy.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="PolicyDelta.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="QueryGrantableRolesRequest.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="QueryGrantableRolesResponse.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="Role.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="ServiceAccount.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="ServiceAccountKey.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="SetIamPolicyRequest.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="SignBlobRequest.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="SignBlobResponse.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="SignJwtRequest.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="SignJwtResponse.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="TestIamPermissionsRequest.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+<file name="TestIamPermissionsResponse.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474318400000000" />
+</dwsync>

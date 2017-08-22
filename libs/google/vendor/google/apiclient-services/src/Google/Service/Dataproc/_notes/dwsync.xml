@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AcceleratorConfig.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="CancelJobRequest.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="Cluster.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="ClusterConfig.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="ClusterMetrics.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="ClusterOperationMetadata.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="ClusterOperationStatus.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="ClusterStatus.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="DataprocEmpty.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="DiagnoseClusterRequest.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="DiagnoseClusterResults.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="DiskConfig.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="GceClusterConfig.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="HadoopJob.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="HiveJob.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="InstanceGroupConfig.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="Job.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="JobPlacement.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="JobReference.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="JobScheduling.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="JobStatus.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="ListClustersResponse.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="ListJobsResponse.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="ListOperationsResponse.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474314800000000" />
+<file name="LoggingConfig.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="ManagedGroupConfig.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="NodeInitializationAction.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="Operation.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="PigJob.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="PySparkJob.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="QueryList.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="SoftwareConfig.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="SparkJob.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="SparkSqlJob.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="Status.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="SubmitJobRequest.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="YarnApplication.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+</dwsync>

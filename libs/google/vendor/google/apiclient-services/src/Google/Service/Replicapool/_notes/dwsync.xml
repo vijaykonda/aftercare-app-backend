@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="InstanceGroupManager.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="InstanceGroupManagerList.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="InstanceGroupManagersAbandonInstancesRequest.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="InstanceGroupManagersDeleteInstancesRequest.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="InstanceGroupManagersRecreateInstancesRequest.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="InstanceGroupManagersSetInstanceTemplateRequest.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="InstanceGroupManagersSetTargetPoolsRequest.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="Operation.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="OperationError.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="OperationErrorErrors.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="OperationList.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="OperationWarnings.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="OperationWarningsData.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="ReplicaPoolAutoHealingPolicy.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+</dwsync>

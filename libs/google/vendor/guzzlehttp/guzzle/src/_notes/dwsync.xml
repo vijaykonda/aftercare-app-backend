@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Client.php" server="mobileapp.dentacoin.com" local="131425950500000000" remote="131474311200000000" />
+<file name="ClientInterface.php" server="mobileapp.dentacoin.com" local="131425950500000000" remote="131474311200000000" />
+<file name="functions.php" server="mobileapp.dentacoin.com" local="131425950500000000" remote="131474311200000000" />
+<file name="functions_include.php" server="mobileapp.dentacoin.com" local="131425950500000000" remote="131474311200000000" />
+<file name="HandlerStack.php" server="mobileapp.dentacoin.com" local="131425950500000000" remote="131474311200000000" />
+<file name="MessageFormatter.php" server="mobileapp.dentacoin.com" local="131425950500000000" remote="131474311200000000" />
+<file name="Middleware.php" server="mobileapp.dentacoin.com" local="131425950500000000" remote="131474311200000000" />
+<file name="Pool.php" server="mobileapp.dentacoin.com" local="131425950500000000" remote="131474311200000000" />
+<file name="PrepareBodyMiddleware.php" server="mobileapp.dentacoin.com" local="131425950500000000" remote="131474311200000000" />
+<file name="RedirectMiddleware.php" server="mobileapp.dentacoin.com" local="131425950500000000" remote="131474311200000000" />
+<file name="RequestOptions.php" server="mobileapp.dentacoin.com" local="131425950500000000" remote="131474311200000000" />
+<file name="RetryMiddleware.php" server="mobileapp.dentacoin.com" local="131425950500000000" remote="131474311200000000" />
+<file name="TransferStats.php" server="mobileapp.dentacoin.com" local="131425950500000000" remote="131474311200000000" />
+<file name="UriTemplate.php" server="mobileapp.dentacoin.com" local="131425950500000000" remote="131474311200000000" />
+</dwsync>

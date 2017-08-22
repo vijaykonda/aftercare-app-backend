@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Checksum.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="ClientInfo.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="Constraints.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="FetchThreatListUpdatesRequest.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="FetchThreatListUpdatesResponse.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="FindFullHashesRequest.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="FindFullHashesResponse.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="FindThreatMatchesRequest.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="FindThreatMatchesResponse.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="ListThreatListsResponse.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="ListUpdateRequest.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="ListUpdateResponse.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="MetadataEntry.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="RawHashes.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="RawIndices.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="RiceDeltaEncoding.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="ThreatEntry.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="ThreatEntryMetadata.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="ThreatEntrySet.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="ThreatInfo.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="ThreatListDescriptor.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="ThreatMatch.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+</dwsync>

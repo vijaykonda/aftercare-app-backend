@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AcknowledgeRequest.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="Binding.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="ListSubscriptionsResponse.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="ListTopicsResponse.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="ListTopicSubscriptionsResponse.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="ModifyAckDeadlineRequest.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="ModifyPushConfigRequest.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="Policy.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="PublishRequest.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="PublishResponse.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="PubsubEmpty.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="PubsubMessage.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="PullRequest.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="PullResponse.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="PushConfig.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="ReceivedMessage.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="SetIamPolicyRequest.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="Subscription.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="TestIamPermissionsRequest.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="TestIamPermissionsResponse.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+<file name="Topic.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474320800000000" />
+</dwsync>

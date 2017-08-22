@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AllocateIdsRequest.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="AllocateIdsResponse.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="ArrayValue.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="BeginTransactionRequest.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="BeginTransactionResponse.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="CommitRequest.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="CommitResponse.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="CompositeFilter.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="Entity.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="EntityResult.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="Filter.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="GqlQuery.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="GqlQueryParameter.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="Key.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="KindExpression.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="LatLng.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="LookupRequest.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="LookupResponse.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="Mutation.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="MutationResult.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="PartitionId.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="PathElement.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="Projection.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="PropertyFilter.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="PropertyOrder.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="PropertyReference.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="Query.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="QueryResultBatch.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="ReadOptions.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="RollbackRequest.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="RollbackResponse.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="RunQueryRequest.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="RunQueryResponse.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+<file name="Value.php" server="mobileapp.dentacoin.com" local="131441399600000000" remote="131474316000000000" />
+</dwsync>

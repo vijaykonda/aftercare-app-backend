@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CancelOperationRequest.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="ListOperationsResponse.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="LongRunningRecognizeRequest.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="Operation.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="RecognitionAudio.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="RecognitionConfig.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="RecognizeRequest.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="RecognizeResponse.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="SpeechContext.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="SpeechEmpty.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="SpeechRecognitionAlternative.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="SpeechRecognitionResult.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="Status.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+</dwsync>

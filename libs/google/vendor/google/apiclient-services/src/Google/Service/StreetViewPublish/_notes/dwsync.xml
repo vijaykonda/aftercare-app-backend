@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BatchDeletePhotosRequest.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="BatchDeletePhotosResponse.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="BatchGetPhotosResponse.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="BatchUpdatePhotosRequest.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="BatchUpdatePhotosResponse.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="Connection.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="LatLng.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="Level.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="ListPhotosResponse.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="Photo.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="PhotoId.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="PhotoResponse.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="Place.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="Pose.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="Status.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="StreetviewpublishEmpty.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="UpdatePhotoRequest.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+<file name="UploadRef.php" server="mobileapp.dentacoin.com" local="131441399640000000" remote="131474322600000000" />
+</dwsync>

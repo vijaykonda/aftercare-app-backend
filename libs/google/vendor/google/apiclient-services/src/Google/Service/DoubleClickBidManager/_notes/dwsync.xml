@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="DownloadLineItemsRequest.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474316600000000" />
+<file name="DownloadLineItemsResponse.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474316600000000" />
+<file name="DownloadRequest.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474316600000000" />
+<file name="DownloadResponse.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474316600000000" />
+<file name="FilterPair.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474316600000000" />
+<file name="ListQueriesResponse.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474316600000000" />
+<file name="ListReportsResponse.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474316600000000" />
+<file name="Parameters.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474316600000000" />
+<file name="Query.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474316600000000" />
+<file name="QueryMetadata.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474316600000000" />
+<file name="QuerySchedule.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474316600000000" />
+<file name="Report.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474316600000000" />
+<file name="ReportFailure.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474316600000000" />
+<file name="ReportKey.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474316600000000" />
+<file name="ReportMetadata.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474316600000000" />
+<file name="ReportStatus.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474316600000000" />
+<file name="RowStatus.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474316600000000" />
+<file name="RunQueryRequest.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474316600000000" />
+<file name="UploadLineItemsRequest.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474316600000000" />
+<file name="UploadLineItemsResponse.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474316600000000" />
+<file name="UploadStatus.php" server="mobileapp.dentacoin.com" local="131441399620000000" remote="131474316600000000" />
+</dwsync>
